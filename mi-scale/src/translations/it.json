@@ -9,14 +9,14 @@
   "Skinny": "Magro",
   "Balanced-skinny": "Magro - bilanciato",
   "Skinny-muscular": "Magro - muscoloso",
-  "lean_body_mass": "Massa corporea magra"
-  "body_fat": "Massa grassa"
-  "water": "Acqua"
-  "bone_mass": "Massa ossea"
-  "muscle_mass": "Massa muscolare"
-  "protein": "Proteine"
-  "body_type": "Tipologia di fisico"
-  "metabolic_age": "Età metabolica"
+  "lean_body_mass": "Massa corporea magra",
+  "body_fat": "Massa grassa",
+  "water": "Acqua",
+  "bone_mass": "Massa ossea",
+  "muscle_mass": "Massa muscolare",
+  "protein": "Proteine",
+  "body_type": "Tipologia di fisico",
+  "metabolic_age": "Età metabolica",
   
   "translator": "Andrea Rossetto, aka Brusarp"
 }

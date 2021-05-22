@@ -1,4 +1,4 @@
-# Home Assistant Add-on: Xiaomi Mi Scale
+# Home Assistant Add-on: Xiaomi Mi Scale - *FORKED* for translation
 
 Reads weight measurements from Xiaomi Body Scales via Bluetooth.
 

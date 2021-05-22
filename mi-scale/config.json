@@ -1,8 +1,8 @@
 {
-  "name": "Xiaomi Mi Scale",
-  "version": "0.2.4",
-  "slug": "xiaomi_mi_scale",
-  "description": "Read weight measurements from a Xiaomi bathroom scale via Bluetooth (BLE)",
+  "name": "Xiaomi Mi Scale - translation test",
+  "version": "0.2.4_t",
+  "slug": "xiaomi_mi_scale_translated",
+  "description": "Read weight measurements from a Xiaomi bathroom scale via Bluetooth (BLE) - translation test",
   "url": "https://github.com/brusarp/hassio-addons",
   "image": "lolouk44/xiaomi-mi-scale-ha-add-on",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],

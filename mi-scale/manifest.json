@@ -1,0 +1,9 @@
+{
+  "domain": "mi-scale",
+  "name": "Mi-Scale integration by lolouk44 - translate test",
+  "documentation": "https://github.com/brusarp/hassio-addons/tree/master/mi-scale",
+  "dependencies": [],
+  "codeowners": "lolouk44",
+  "requirements": [],
+  "iot_class": "local_push"
+}

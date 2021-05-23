@@ -1,7 +1,7 @@
 {
   "domain": "mi-scale",
   "name": "Mi-Scale integration by lolouk44 - translate test",
-  "version": "0.2.4-beta"
+  "version": "0.2.4-beta",
   "documentation": "https://github.com/brusarp/hassio-addons/tree/master/mi-scale",
   "dependencies": [],
   "codeowners": ["@lolouk44,@brusarp"],
